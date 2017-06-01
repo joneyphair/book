@@ -17,3 +17,13 @@ The key fingerprint is:
 ```
 
 得到了两个文件：id_rsa(私钥）、id_rsa.pub（公钥)
+
+
+#### 修改文件权限
+
+```
+chmod 700 .ssh
+chmod 600 .ssh/id_rsa
+chmod 644 .ssh/authorized_keys
+```
+
