@@ -4,6 +4,9 @@
 
 
 
+* Electron 
+     * [常规错误](electron/init.md)
+
 * Npm 
      * [常规错误](npm/error.md)
 
