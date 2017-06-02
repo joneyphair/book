@@ -3,6 +3,10 @@
 * [Introduction](README.md)
 
 
+
+* Npm 
+     * [常规错误](npm/error.md)
+
 * Linux 
      * [user](linux/user.md)
      * [为用户赋予root权限](linux/user-to-root.md)
