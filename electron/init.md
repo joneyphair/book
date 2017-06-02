@@ -61,8 +61,6 @@ app.on('ready', function() {
 
 ```
 
-
-
 #### 相关文章
 
 [用Electron开发桌面应用](http://get.ftqq.com/7870.get)
