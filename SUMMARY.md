@@ -15,6 +15,10 @@
      * [为用户赋予root权限](linux/user-to-root.md)
      * [ssh-keygen](linux/ssh-keygen.md)
 
+
+* Chrome 
+     * [host修改不生效](chrome/hosts.md)
+
 * 帮助
      * [gitbook](help/gitbook.md)
      * [Markdown语法](help/markdown.md)
