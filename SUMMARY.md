@@ -19,6 +19,7 @@
 * PHP 
      * [Centos PHP 5.6安装](php/php-5.6.md)
      * laravel
+        * [composer 安装](php/laravel/composer.md)
         * [laravel ajax cors ](php/laravel/ajax-cors.md)
 
 * Chrome 
