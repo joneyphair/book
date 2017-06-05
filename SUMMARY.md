@@ -18,6 +18,8 @@
 
 * PHP 
      * [Centos PHP 5.6安装](php/php-5.6.md)
+     * laravel
+        * [laravel ajax cors ](php/laravel/ajax-cors.md)
 
 * Chrome 
      * [host修改不生效](chrome/hosts.md)
