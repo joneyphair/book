@@ -9,6 +9,7 @@
 
 * Npm 
      * [常规错误](npm/error.md)
+     * [淘宝镜像](npm/cnpm.md)
 
 * Linux 
      * [user](linux/user.md)
