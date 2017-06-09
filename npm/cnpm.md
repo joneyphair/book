@@ -17,3 +17,8 @@ echo '\n#alias for cnpm\nalias cnpm="npm --registry=https://registry.npm.taobao.
   --disturl=https://npm.taobao.org/dist \
   --userconfig=$HOME/.cnpmrc"' >> ~/.zshrc && source ~/.zshrc
 ```
+
+
+#### 参考文档
+
+1. [淘宝 NPM 镜像](https://npm.taobao.org/)
