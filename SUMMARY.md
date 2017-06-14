@@ -12,6 +12,7 @@
 
 * Npm 
      * [pm2](npm/pm2.md)
+     * [log4js](npm/log4js.md)
      * [常规错误](npm/error.md)
      * [淘宝镜像](npm/cnpm.md)
 
