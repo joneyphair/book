@@ -11,6 +11,7 @@
      * [常规错误](electron/init.md)
 
 * Npm 
+     * [pm2](npm/pm2.md)
      * [常规错误](npm/error.md)
      * [淘宝镜像](npm/cnpm.md)
 
